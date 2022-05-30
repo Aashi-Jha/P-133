@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-size: cover;
+    background-position:center ;
+}
+h1{
+    font-family: cursive;
+    font-weight: bolder;
+    background-color: black;
+    color: honeydew;
+    margin-top: 0;
+    padding-top: 15px;
+}
+a{
+    background-color: grey;
+   color: cornsilk;
+   font-family: monospace;
+   font-weight: bolder;
+   font-size: 20px;
+   padding: 20px;
+   margin-top: 20px;
+  border: 2px solid white;
+  border-radius: 8px;
+  width: 10%;
+}

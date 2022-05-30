@@ -1,0 +1,26 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    font-size: 40px;
+    font-family: cursive;
+    margin-top: 0px;
+    background-color: black;
+    border: 2px solid blanchedalmond ;
+    color: white;
+}
+.link{
+    background-color: white;
+    border-radius: 10px;
+    width: 80px;
+    font-size: 15px;
+    color: white;
+    float:left;
+
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px grey;
+}
